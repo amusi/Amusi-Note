@@ -5,11 +5,13 @@
 
 ## **学习笔记**
 
-[coding-note](https://github.com/amusi/coding-note): coding笔记，含Leetcode和剑指Offer刷题笔记
+**（学习ing）**[coding-note](https://github.com/amusi/coding-note): coding笔记，含Leetcode和剑指Offer刷题笔记
+
+**（学习ing）**[TensorFlow-From-Zero-To-One](https://github.com/amusi/TensorFlow-From-Zero-To-One): TensorFlow学习笔记
+
+**（学习ing）**[PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)
 
 [cpp-from-zero-to-one](https://github.com/amusi/cpp-from-zero-to-one): c++学习笔记
-
-[TensorFlow-From-Zero-To-One](https://github.com/amusi/TensorFlow-From-Zero-To-One): TensorFlow学习笔记
 
 [SLAM-From-Zero-To-One](https://github.com/amusi/SLAM-From-Zero-To-One): SLAM学习笔记
 
@@ -18,8 +20,6 @@
 
 
 TODO:
-
-PyTorch-From-Zero-To-One
 
 CUDA-From-Zero-To-One
 
