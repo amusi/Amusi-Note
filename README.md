@@ -1,11 +1,11 @@
 # Amusi-Note
-[Amusi](http://amusi.github.io) 笔记
-
-
+[2018年11-12月 学习计划](2018-11-12-TODO.md)
 
 ## **学习笔记**
 
-**（学习ing）**[coding-note](https://github.com/amusi/coding-note): coding笔记，含Leetcode和剑指Offer刷题笔记
+**（学习ing）**[coding-note](https://github.com/amusi/coding-note): coding笔记，包含Leetcode和剑指Offer刷题笔记
+
+**（学习ing）**[paper-note](https://github.com/amusi/paper-note): 论文精读笔记，包含CNN、目标检测、图像分割等方向
 
 **（学习ing）**[TensorFlow-From-Zero-To-One](https://github.com/amusi/TensorFlow-From-Zero-To-One): TensorFlow学习笔记
 
